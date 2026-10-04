@@ -5,3 +5,4 @@ matplotlib==3.8.0
 seaborn==0.13.2
 palmerpenguins==0.1.4
 setuptools<81
+scikit-learn==1.5.2
