@@ -6,3 +6,5 @@ seaborn==0.13.2
 palmerpenguins==0.1.4
 setuptools<81
 scikit-learn==1.5.2
+requests==2.34.0
+msal==1.24.0
